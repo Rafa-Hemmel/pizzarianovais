@@ -1,0 +1,23 @@
+footer {
+    background-color: black;
+    color: white; 
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;;
+    padding: 30px 0; 
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-item {
+    max-width: 1000px; 
+    margin: 0 auto; 
+}
+
+.endereco-telefone {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
